@@ -1,0 +1,155 @@
+@import "https://fonts.googleapis.com/css?family=AvenirNext:400,700";
+@import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css";
+body {
+    margin: auto;
+    background-color: white;
+    font-family: 'AvenirNext', Avenir, sans-serif;
+}
+
+.container1 {
+    width: 350px;
+    height: 100px;
+    background-color: white;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.container2 {
+    width: 350px;
+    background-color: white;
+    margin: auto;
+    padding-top: 10px;
+    border-radius: 5px;
+    border-color: lightgray;
+    border-width: 0.5px;
+    border-style: solid;
+}
+
+li {
+    display: inline;
+}
+
+.logo_main {
+    width: auto;
+    max-width: 100px;
+    padding-right: 200px;
+}
+
+.form {
+    margin: auto;
+}
+
+.navbar {
+    width: 100vw;
+    height: 20px;
+}
+
+#signin {
+    float: right;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 20px;
+    height: 40px;
+    width: 100px;
+    background-color: dodgerblue;
+    color: floralwhite;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+#have_account {
+    display: inline;
+    float: right;
+    font-size: 12px;
+    text-align: right;
+}
+
+#other_logos {
+    display: flex;
+    padding-left: 20px;
+}
+
+.logo_main {
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+}
+
+button {
+    background-color: white;
+    color: gray;
+    border-style: hidden;
+    font-size: larger;
+    padding-top: 5px;
+}
+
+.small_logo {
+    width: 200px;
+    display: flex;
+}
+
+p {
+    font-size: 12px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#phone_msg {
+    font-size: 9px;
+}
+
+.button {
+    margin-top: 20px;
+    height: 40px;
+    width: 300px;
+    background-color: dodgerblue;
+    color: floralwhite;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.footer {
+    margin-top: 20px;
+    width: 100vw;
+}
+
+footer>p {
+    font-size: 12px;
+    text-align: center;
+    line-height: 20px;
+}
+
+.capcha {
+    height: 50px;
+    width: 100%;
+    background-color: lightgray;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 10px;
+    margin-top: 60px;
+}
+
+.capcha>p {
+    font-size: 10px;
+}
+
+.our_terms>p {
+    text-align: center;
+}
+
+input {
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.form_input {
+    padding-top: 15px;
+}
+
+.form_main {
+    padding-left: 15px;
+}
