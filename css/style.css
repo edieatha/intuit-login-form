@@ -45,7 +45,7 @@ li {
     height: 20px;
 }
 
-#signin {
+.signin {
     float: right;
     margin-top: 10px;
     margin-left: 10px;
@@ -53,9 +53,14 @@ li {
     height: 40px;
     width: 100px;
     background-color: dodgerblue;
-    color: floralwhite;
+    color: white;
     border-radius: 5px;
     font-size: 15px;
+    padding-top: 0px;
+}
+
+.signin:hover {
+    background-color: rebeccapurple;
 }
 
 #have_account {
@@ -156,4 +161,8 @@ input {
 
 .login_title {
     text-align: center;
+}
+
+h4 {
+    font-size: 25px;
 }
