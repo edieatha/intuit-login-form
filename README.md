@@ -26,7 +26,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Visit Repository
 
-### Download Repository (git@github.com:MFahadUmer/mint-signup.git)
+### Download Repository (git@github.com:edieatha/intuit-login-form.git)
 
 ### Run index.html file
 
@@ -51,7 +51,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/MFahadUmer/mint-signup/issues).
+Feel free to check the [issues page](https://github.com/edieatha/intuit-login-form/issues).
 
 ## Show your support
 
