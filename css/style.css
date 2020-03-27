@@ -153,3 +153,7 @@ input {
 .form_main {
     padding-left: 15px;
 }
+
+.login_title {
+    text-align: center;
+}
