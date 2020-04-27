@@ -13,7 +13,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://codepen.io/edieatha/full/wvaYxKE)
+[Live Demo Link](https://quirky-murdock-2bb9a6.netlify.app)
 
 
 ## Getting Started
